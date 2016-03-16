@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../Downloads/Placeholder_Nappeja/SquareButton_3.png</file>
+        <file>../../Downloads/Placeholder_Nappeja/Save_Blue.png</file>
+        <file>../../Downloads/Placeholder_Nappeja/Heart.png</file>
+    </qresource>
+</RCC>
